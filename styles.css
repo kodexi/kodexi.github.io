@@ -1,0 +1,9 @@
+@font-face {
+    font-family:Ubuntu;
+    src:url(ubuntu.ttf);
+}
+html {
+    font-family:Ubuntu;
+    background-color:#1D2228;
+    color:white;
+}
