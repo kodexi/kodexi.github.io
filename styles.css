@@ -1,9 +1,10 @@
 @font-face {
     font-family:Ubuntu;
     font-display:swap;
+    font-size:200px;
     font-weight:500;
     font-style:normal;
-    src:url(ubuntu.woff2) format('woff2');
+    src:url(ubuntu-medium.woff2) format('woff2');
 }
 html {
     font-family:Ubuntu;
